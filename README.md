@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shinigami221
-- 👀 I’m interested in Gaming and learning new languages 
+- 👀 I’m interested in game deveolpment and learning new languages 
 - 🌱 I’m currently learning Swift 
 - 💞️ I’m looking to collaborate on small gaming projects and small apps
 - 📫 How to reach me ...
